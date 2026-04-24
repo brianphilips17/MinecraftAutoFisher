@@ -1,6 +1,6 @@
 HOW TO USE THE AUTO-FISHER
 ==========================
-Created by Bphilips and Heith
+Created by Bphilips
 
 1. INSTALL LIBRARIES:
    Open PowerShell and run:
